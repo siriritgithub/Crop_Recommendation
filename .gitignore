@@ -1,0 +1,19 @@
+# Secrets - never commit real API keys
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# Local data generated at runtime
+data/feedback_log.csv
+
+# Editors
+.vscode/
+.idea/

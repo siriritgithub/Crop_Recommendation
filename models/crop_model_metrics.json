@@ -1,0 +1,7 @@
+{
+  "test_accuracy": 0.9932,
+  "cv_accuracy_mean": 0.9941,
+  "cv_accuracy_std": 0.0027,
+  "n_classes": 22,
+  "n_samples": 2200
+}

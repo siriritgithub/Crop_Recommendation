@@ -1,0 +1,802 @@
+{
+  "Barley (Jau)": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 1897.38
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 2000.6
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 2091.39
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 2135.04
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 2185.23
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 2244.36
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 2312.08
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 2355.45
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 2385.66
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 2439.23
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 2454.5
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 2383.57
+    }
+  ],
+  "Coconut": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 3898.53
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 3761.59
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 1938.67
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 3194.69
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 3603.72
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 4078.0
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 4928.77
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 5073.83
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 5497.94
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 5940.59
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 6047.14
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 5756.94
+    }
+  ],
+  "Coffee": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 18503.17
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 19579.49
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 20371.64
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 21175.68
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 21945.83
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 24811.76
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 24649.43
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 23971.43
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 24771.67
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 25671.79
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 30019.84
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 29354.55
+    }
+  ],
+  "Cotton": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 6978.4
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 6902.7
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 6850.84
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 7037.37
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 7022.81
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 6890.3
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 7122.66
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 7231.03
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 7161.48
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 7167.75
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 7035.74
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 6942.65
+    }
+  ],
+  "Ginger(Dry)": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 11786.26
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 12910.28
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 13297.17
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 12501.49
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 10322.92
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 8560.78
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 7867.03
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 7036.68
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 6906.21
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 6577.69
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 6147.16
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 6363.42
+    }
+  ],
+  "Groundnut": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 6252.31
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 6139.13
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 6017.49
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 5931.91
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 5977.64
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 5695.31
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 5505.9
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 5422.66
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 5441.32
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 5457.95
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 5375.56
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 5533.27
+    }
+  ],
+  "Jowar(Sorghum)": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 2967.81
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 2836.02
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 2967.96
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 2897.68
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 2704.22
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 2646.3
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 2565.24
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 2642.72
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 2723.71
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 2766.6
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 2894.73
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 2802.05
+    }
+  ],
+  "Maize": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 2127.54
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 2160.46
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 2174.73
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 2338.06
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 2456.74
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 2393.13
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 2237.98
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 2273.46
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 2328.78
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 2382.2
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 2356.01
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 2341.58
+    }
+  ],
+  "Millets": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 2425.45
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 2529.55
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 2451.55
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 2308.28
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 2357.68
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 2547.57
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 2663.79
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 2717.22
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 2603.9
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 2705.24
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 2857.74
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 3197.14
+    }
+  ],
+  "Rice": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 3393.99
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 3421.72
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 3429.79
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 3493.32
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 3536.46
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 3573.16
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 3591.53
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 3598.93
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 3608.76
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 3605.33
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 3635.0
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 3647.06
+    }
+  ],
+  "Sugar": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 4007.14
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 4081.0
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 4140.38
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 4462.44
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 4101.68
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 4158.9
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 4143.48
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 4186.92
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 4116.66
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 4160.72
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 4152.04
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 4152.2
+    }
+  ],
+  "Sugarcane": [
+    {
+      "month": "2024-03",
+      "avg_modal_price": 320.62
+    },
+    {
+      "month": "2024-04",
+      "avg_modal_price": 665.92
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 300.0
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 342.86
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 415.0
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 550.0
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 425.0
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 550.0
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 450.0
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 322.5
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 340.0
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 325.0
+    }
+  ],
+  "Sunflower": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 4121.26
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 4179.66
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 5493.17
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 4267.56
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 4321.33
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 5119.05
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 5353.02
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 5625.27
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 5366.16
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 5357.33
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 5437.82
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 4989.96
+    }
+  ],
+  "Tea": [
+    {
+      "month": "2017-11",
+      "avg_modal_price": 29507.89
+    },
+    {
+      "month": "2017-12",
+      "avg_modal_price": 29500.0
+    },
+    {
+      "month": "2018-01",
+      "avg_modal_price": 27555.56
+    },
+    {
+      "month": "2018-02",
+      "avg_modal_price": 29500.0
+    },
+    {
+      "month": "2018-03",
+      "avg_modal_price": 29500.0
+    },
+    {
+      "month": "2018-05",
+      "avg_modal_price": 29708.33
+    },
+    {
+      "month": "2018-06",
+      "avg_modal_price": 29282.61
+    },
+    {
+      "month": "2018-07",
+      "avg_modal_price": 29916.67
+    },
+    {
+      "month": "2018-08",
+      "avg_modal_price": 29391.3
+    },
+    {
+      "month": "2018-09",
+      "avg_modal_price": 30250.0
+    },
+    {
+      "month": "2018-11",
+      "avg_modal_price": 15000.0
+    },
+    {
+      "month": "2022-10",
+      "avg_modal_price": 27000.0
+    }
+  ],
+  "Turmeric": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 13142.51
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 13825.92
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 14031.33
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 13493.95
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 12915.47
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 13151.61
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 13158.93
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 13432.69
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 13396.57
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 13266.44
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 12106.76
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 11596.07
+    }
+  ],
+  "Wheat": [
+    {
+      "month": "2024-04",
+      "avg_modal_price": 2385.14
+    },
+    {
+      "month": "2024-05",
+      "avg_modal_price": 2421.74
+    },
+    {
+      "month": "2024-06",
+      "avg_modal_price": 2469.96
+    },
+    {
+      "month": "2024-07",
+      "avg_modal_price": 2510.78
+    },
+    {
+      "month": "2024-08",
+      "avg_modal_price": 2581.02
+    },
+    {
+      "month": "2024-09",
+      "avg_modal_price": 2628.79
+    },
+    {
+      "month": "2024-10",
+      "avg_modal_price": 2727.4
+    },
+    {
+      "month": "2024-11",
+      "avg_modal_price": 2809.21
+    },
+    {
+      "month": "2024-12",
+      "avg_modal_price": 2816.44
+    },
+    {
+      "month": "2025-01",
+      "avg_modal_price": 2929.33
+    },
+    {
+      "month": "2025-02",
+      "avg_modal_price": 2891.92
+    },
+    {
+      "month": "2025-03",
+      "avg_modal_price": 2730.88
+    }
+  ]
+}

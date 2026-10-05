@@ -1,0 +1,23 @@
+{
+  "r2": 0.8682,
+  "mae": 611.36,
+  "n_samples": 2810,
+  "commodities": [
+    "Barley (Jau)",
+    "Coconut",
+    "Coffee",
+    "Cotton",
+    "Ginger(Dry)",
+    "Groundnut",
+    "Jowar(Sorghum)",
+    "Maize",
+    "Millets",
+    "Rice",
+    "Sugar",
+    "Sugarcane",
+    "Sunflower",
+    "Tea",
+    "Turmeric",
+    "Wheat"
+  ]
+}
